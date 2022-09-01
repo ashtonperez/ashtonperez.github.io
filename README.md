@@ -11,11 +11,12 @@
 ## Massachusetts Public Schools Data
 https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data/code
 
-###### Into:
+###### Intro:
 This data set seeks to answer three main questions: 
 1. What contributes to differences in school outcomes?
 2. Are there meaningful regional differences within MA?
 3. Which schools do well despite limited resources?
+
 The data set includes the following fields: enrollment by grade, enrollment by selected population, enrollment by race/gender, class size by gender and selected populations, teacher salaries, per pupil expenditure, graduation rates, graduates attending higher education, advanced placement, SAT, accountability and reports.
 
 By clicking on the code section users can see the different contributors and their specific research and conclusions. 
@@ -24,9 +25,9 @@ By clicking on the code section users can see the different contributors and the
 
 The MA data was utilized to find what impacts student college rate. Using the provided data this contributor found that economic status is the largest indicator of college attendance and that Charter and pilot schools outperform public schools. To see the detailed preprocessing and visual transformations, please follow the link: https://www.kaggle.com/code/ndalziel/who-goes-to-college 
 
-Another example of application with he MA data was finding what looking and how funding levels, class size and teacher salaries impact school success outcomes. Using the provided data this contributor found all variables have an impact. Though many interesting variabilities occured depending on school type. To see the detailed preprocessing and visual transformations, please follow the link: https://www.kaggle.com/code/mhaupt/identifying-factors-for-education-success/notebook 
+Another application the MA data performed was finding how funding levels, class size and teacher salaries impact school success outcomes. Using the provided data this contributor found all variables have an impact. Though many interesting variabilities occured depending on school type. To see the detailed preprocessing and visual transformations, please follow the link: https://www.kaggle.com/code/mhaupt/identifying-factors-for-education-success/notebook 
 
-A *potential* application that can be used on this data set is enhancing STEM interest in female students and then tracking their STEM journey further into college and career. The current data set consists of student demographics, class size, location, academic achievement, placement and enrollment. With this information we could find correlations and patterns for better recruitment, increased enthusiasm/interest, and retention for STEM fields within the female population. We can answer big questions such as, “is STEM interest between male and female students disproportionate? Are there equal opportunities in school? what societal norms and expectations create this imbalance? Why? How can we correct this?” And by tracking their futures in STEM this could help make predictions for new generations. We could possibly do this for current data on STEM career women and work backward.
+A *potential* application that can be used on this data set is enhancing STEM interest in female students. The current data set consists of student demographics, class size, location, academic achievement, placement and enrollment. With this information we could find correlations and patterns for better recruitment, increased enthusiasm/interest, and retention for STEM fields within the female population. We can answer big questions such as, “is STEM interest between male and female students disproportionate? Are there equal opportunities in school? what societal/school norms and expectations create this imbalance? Why? How can we correct this?” By tracking their futures in STEM this could help make predictions for new generations. We could possibly do this for current data on STEM career women and work backward.
 
 
 
